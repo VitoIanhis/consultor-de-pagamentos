@@ -47,13 +47,5 @@ Certifique-se de ter os seguintes arquivos Excel na raiz do projeto:
     ```
 3. Após a execução, um novo arquivo chamado `planilha_fechamento_atualizada.xlsx` será gerado com os resultados atualizados.
 
-## 📂 Estrutura do Projeto
-
-```bash
-.
-├── dados_clientes.xlsx              # Planilha de entrada com dados dos clientes
-├── planilha_fechamento.xlsx         # Planilha de entrada para o fechamento
-├── planilha_fechamento_atualizada.xlsx  # Planilha gerada com os resultados atualizados
-├── app.js                           # Script principal de automação
-├── package.json                     # Arquivo de configuração do projeto Node.js
-└── README.md                        # Este arquivo
+## **🎥 Script funcionando**
+[Assista ao vídeo do script funcionando](https://ik.imagekit.io/tntifmcqk/V%C3%ADdeo%20sem%20t%C3%ADtulo%20_%20Feito%20com%20o%20Clipchamp.mp4?updatedAt=1724549497952)
